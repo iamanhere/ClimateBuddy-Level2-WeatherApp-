@@ -10,5 +10,8 @@ With this project, users can search his/her weather forecast according to their 
 * HTML <br>
 * CSS <br>
 * JavaScript <br>
+<h4>Output</h4>
+Just check out the output from the given link below 👇<br>
+  link: https://climatebuddy.netlify.app/
 <h4>Conclusion</h4>
 So, This was my first experience working on a company-based project, I will thank #InternSavy for providing me with such a best role for the internship.
